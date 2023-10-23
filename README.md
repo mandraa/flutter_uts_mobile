@@ -32,6 +32,29 @@
 
 ![Output](images/output.png)
 
+# Tugas 1
+
+![tgs 1](images/tgs1.png)
+
+# Tugas 2
+
+![tgs 2](images/tgs2.png)
+
+# Output Tugas 2
+
+![Output tgs 2](images/output_tgs2.png)
+
+# Tugas 3
+
+![tgs 3](images/tgs3.1.png)
+![tgs 3](images/tgs3.2.png)
+
+# Output Tugas 3
+
+![output](images/output_tgs3.png)
+![output](images/output_tgs3.1.png)
+![output](images/output_tgs3.2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
